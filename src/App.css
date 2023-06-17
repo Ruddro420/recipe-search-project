@@ -1,0 +1,25 @@
+.main-container{
+  width: 1200px;
+  margin: auto;
+}
+
+.meal-container{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 30px;
+}
+
+.meal-container img{
+  height: 300px;
+  width: 100%;
+}
+.search-container{
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.heading-container h1{
+  font-size: 50px;
+  font-weight: 900;
+}
